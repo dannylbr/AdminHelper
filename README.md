@@ -39,7 +39,7 @@ This is especially useful in desktop applications, tools, or installers that req
 ## Features
 
 - ✅ Lightweight static helper methods  
-- 🔍 Checks admin rights using `WindowsIdentity` and `WindowsPrincipal` :contentReference[oaicite:0]{index=0}  
+- 🔍 Checks admin rights using `WindowsIdentity` and `WindowsPrincipal`
 - 🔁 Re-launches the running executable with administrative privileges via `ProcessStartInfo` and the `runas` verb
 - 📦 No external dependencies — purely built on .NET base libraries  
 - 🔧 Easy to integrate into any .NET or .NET Core / .NET 8+ Windows application
